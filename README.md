@@ -19,7 +19,7 @@
   <li><a href="https://github.com/naufalzakky/Nomor4">Nomor 4</a></li>
 </ul>
 
-<h2 align="center">Jobsheet 2</h2>
+<h2 align="center">Jobsheet 1.1</h2>
 <h3>Coding</h3>
 <pre>
 <code>
