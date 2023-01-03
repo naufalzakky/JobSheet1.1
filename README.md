@@ -292,3 +292,10 @@ void loop() {
 </pre>
 
 <h3>Hasil</h3>
+https://github.com/naufalzakky/JobSheet1.1/blob/main/Praktikum-2-B-Sender.mp4
+
+https://github.com/naufalzakky/JobSheet1.1/blob/main/Praktikum-2-C-Sender-poin%20a%20success%20semua.mp4
+
+https://github.com/naufalzakky/JobSheet1.1/blob/main/Praktikum-2-D-Sender.mp4
+
+https://github.com/naufalzakky/JobSheet1.1/blob/main/praktikum-2-E-1.mp4
