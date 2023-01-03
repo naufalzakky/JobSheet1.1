@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <h1 align="center">Laporan Praktikum Sistem Embedded</h1>
 <p>Disusun Oleh:</p>
 
@@ -23,5 +19,12 @@
   <li><a href="https://github.com/naufalzakky/Nomor4">Nomor 4</a></li>
 </ul>
 
-</body>
-</html>
+<h2 align="center">Jobsheet 2</h2>
+<h3>Coding</h3>
+<pre>
+<code>
+
+</code>
+</pre>
+
+<h3>Hasil</h3>
